@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raja</h1>
+<h1 align="center">Hi 👋, I'm Rajalingam</h1>
 <h3 align="center">Electronics & Communication Engineering Student | Aspiring VLSI Engineer | Tech Explorer</h3>
 
 ---
@@ -22,19 +22,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rajalingam-n-227862325)
-[![Gmail](https://img.shields.io/badge/Gmail-rajaece25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrajalingam77@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nrajalingam77%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrajalingam77@gmail.com)
 
 
 ---
